@@ -1,0 +1,16 @@
+C:\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\BattleShip\BattleShip\obj\x86\Debug\BattleShip.exe
+C:\BattleShip\BattleShip\obj\x86\Debug\BattleShip.pdb
+C:\Users\Kruszon\Documents\BattleShip\BattleShip\obj\x86\Debug\BattleShip.exe
+C:\Users\Kruszon\Documents\BattleShip\BattleShip\obj\x86\Debug\BattleShip.pdb
+C:\Users\Kruszon\Documents\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Kruszon\Documents\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Kruszon\Documents\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\kacpe\Downloads\statki\battleship\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\kacpe\Downloads\statki\battleship\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\kacpe\Downloads\statki\battleship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\kacpe\Downloads\statki\battleship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Downloads\statki\battleship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.exe
+C:\Users\kacpe\Downloads\statki\battleship\BattleShip\BattleShip\obj\x86\Debug\BattleShip.pdb
